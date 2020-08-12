@@ -6,4 +6,4 @@ Simple animation of moving people in a park
 ## Technology stack
 - Blender
 
-![](images/BlenderAnimation.gif)
+![](images/Animation.gif)
